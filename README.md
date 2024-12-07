@@ -59,7 +59,7 @@ Durante o estudo, será desenvolvido um [Sistema de Gerenciamento de Tarefas](./
 
 ## Recursos
 - [Artigos sobre SOLID](./recursos/artigo_solid.md)
-- [Documentação oficial do Delphi](https://www.embarcadero.com)
+- [Documentação oficial do Delphi](https://docwiki.embarcadero.com/)
 
 ---
 
