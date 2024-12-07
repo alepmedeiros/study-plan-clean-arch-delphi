@@ -8,8 +8,8 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
 
 ### Semana 1: Fundamentos e Filosofia
 - **Capítulos:**   
-  1. O que são Design e Arquitetura?  
-  2. Um Conto de Dois Valores  
+  1.O que são Design e Arquitetura?  
+  2.Um Conto de Dois Valores  
 - **Objetivos:**
   - Compreender a diferença entre design e arquitetura.
   - Refletir sobre os dois valores do software: comportamento e estrutura.  
