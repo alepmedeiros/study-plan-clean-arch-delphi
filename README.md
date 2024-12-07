@@ -6,6 +6,9 @@ O objetivo deste estudo é dominar os conceitos de design e arquitetura descrito
 
 ## Estrutura do Repositório
 
+## Plano de Estudos
+Consulte o plano detalhado de estudos [aqui](./plano_de_estudo.md).
+
 ### Parte I - Introdução
 - [Capítulo 1: O que são Design e Arquitetura?](./capitulos/capitulo1.md)
 - [Capítulo 2: Um Conto de Dois Valores](./capitulos/capitulo2.md)
