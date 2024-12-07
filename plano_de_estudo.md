@@ -7,7 +7,7 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
 ## **Estrutura do Plano**
 
 ### Semana 1: Fundamentos e Filosofia
-- **Capítulos:**
+- **Capítulos:**   
   1. O que são Design e Arquitetura?  
   2. Um Conto de Dois Valores  
 - **Objetivos:**
@@ -20,7 +20,7 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
 ---
 
 ### Semana 2: Paradigmas da Programação - Parte I
-- **Capítulos:**
+- **Capítulos:**   
   3. Panorama do Paradigma  
   4. Programação Estruturada  
 - **Objetivos:**
@@ -33,7 +33,7 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
 ---
 
 ### Semana 3: Paradigmas da Programação - Parte II
-- **Capítulos:**
+- **Capítulos:**    
   5. Programação Orientada a Objetos  
   6. Programação Funcional  
 - **Objetivos:**
@@ -46,7 +46,7 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
 ---
 
 ### Semana 4: Princípios de Design - Parte I
-- **Capítulos:**
+- **Capítulos:**    
   7. SRP: O Princípio da Responsabilidade Única  
   8. OCP: O Princípio do Aberto/Fechado  
 - **Objetivos:**
@@ -58,7 +58,7 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
 ---
 
 ### Semana 5: Princípios de Design - Parte II
-- **Capítulos:**
+- **Capítulos:**    
   9. LSP: O Princípio de Substituição de Liskov  
   10. ISP: O Princípio da Segregação de Interface  
   11. DIP: O Princípio da Inversão de Dependência  
@@ -72,7 +72,7 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
 ---
 
 ### Semana 6: Princípios dos Componentes
-- **Capítulos:**
+- **Capítulos:**    
   12. Componentes  
   13. Coesão de Componentes  
   14. Acoplamento de Componentes  
@@ -87,7 +87,7 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
 
 ### Semanas 7 a 10: Arquitetura
 #### Semana 7: Fundamentos da Arquitetura
-- **Capítulos:**
+- **Capítulos:**    
   15. O que é Arquitetura?  
   16. Independência  
 - **Objetivos:**
@@ -97,7 +97,7 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
   - Criar fronteiras de dependências em um projeto Delphi.
 
 #### Semana 8: Fronteiras e Limites
-- **Capítulos:**
+- **Capítulos:**    
   17. Fronteiras: Estabelecendo Limites  
   18. Anatomia do Limite  
   19. Política e Nível  
@@ -108,7 +108,7 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
   - Implementar camadas com limites definidos.
 
 #### Semana 9: Arquitetura Limpa
-- **Capítulos:**
+- **Capítulos:**    
   20. Regras de Negócio  
   21. Arquitetura Gritante  
   22. Arquitetura Limpa  
@@ -118,7 +118,7 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
   - Refatorar um projeto existente usando os conceitos de Arquitetura Limpa.
 
 #### Semana 10: Casos Avançados
-- **Capítulos:**
+- **Capítulos:**    
   23. Apresentadores e Objetos Humble  
   24. Limites Parciais  
   25. Camadas e Limites  
@@ -131,7 +131,7 @@ Este documento organiza o estudo do livro **Arquitetura Limpa**, de Robert C. Ma
 
 ### Semanas 11 a 12: Detalhes
 #### Semana 11: Detalhes Técnicos
-- **Capítulos:**
+- **Capítulos:**    
   30. A Base de Dados é um Detalhe  
   31. A Web é um Detalhe  
   32. Frameworks são Detalhes  
