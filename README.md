@@ -57,9 +57,9 @@ O objetivo deste estudo é dominar os conceitos de design e arquitetura descrito
 ## Projeto Prático
 Durante o estudo, será desenvolvido um [Sistema de Gerenciamento de Tarefas](./projetos/sistema-tarefas/) como exemplo prático da aplicação dos conceitos do livro.
 
-## Recursos Adicionais
+## Recursos
+- [Artigos sobre SOLID](./recursos/artigo_solid.md)
 - [Documentação oficial do Delphi](https://www.embarcadero.com)
-- [Artigos relacionados à Arquitetura Limpa](./recursos/)
 
 ---
 
